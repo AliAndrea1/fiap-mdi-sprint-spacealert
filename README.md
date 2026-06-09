@@ -1,3 +1,11 @@
+# 🛰️ SpaceAlert — Mobile
+
+Aplicativo mobile de monitoramento climático e prevenção de desastres naturais baseado em dados espaciais e satelitais.
+
+Desenvolvido como parte da *Global Solution 2026.1 — FIAP*.
+
+---
+
 ## Integrantes
 
 | Nome | RM |
@@ -84,7 +92,16 @@ npx expo start
 https://youtube.com/shorts/H8DKo5K5Kvo?si=67D5UdpAyV6IHBgL
 ---
 
-##ODS Relacionados
+## API Backend
+
+Este app consome a API REST do SpaceAlert desenvolvida em Java + Spring Boot.
+
+*Repositório da API:* https://github.com/AliAndrea1/fiap-soa-spacealert.git
+
+Para rodar o app com dados reais, é necessário ter a API rodando localmente. Siga as instruções do repositório acima para configurar e executar o backend.
+
+---
+## ODS Relacionados
 
 - ODS 11 — Cidades e Comunidades Sustentáveis
 - ODS 13 — Ação Contra a Mudança Global do Clima
